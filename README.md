@@ -1,2 +1,3 @@
-# turbine-nodejs-api
-Turbine Node.js API Mockup
+# Turbine Node.js API Mockup
+
+The code is not functional and likely to change in future.
